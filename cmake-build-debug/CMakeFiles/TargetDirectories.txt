@@ -1,0 +1,3 @@
+C:/Users/aads7/Documents/GitHub/Caso-Final-Integrador-tema-3/cmake-build-debug/CMakeFiles/Caso_Final_Integrador_tema_3.dir
+C:/Users/aads7/Documents/GitHub/Caso-Final-Integrador-tema-3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aads7/Documents/GitHub/Caso-Final-Integrador-tema-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
